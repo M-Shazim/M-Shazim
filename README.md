@@ -18,7 +18,7 @@ I'm a passionate developer with skills in Python, Django, and web development. W
 
 ## Featured Projects
 
-[![hackthon_project](https://github-readme-stats.vercel.app/api/pin/?username=M-Shazim&repo=hackthon_project&theme=radical)](https://github.com/M-Shazim/hackthon_project)
+[![hackathon_project](https://github-readme-stats.vercel.app/api/pin/?username=M-Shazim&repo=hackathon_project&theme=radical)](https://github.com/M-Shazim/hackathon_project)
 
 🚀 **Live Demo:** [shazim.pythonanywhere.com](https://shazim.pythonanywhere.com)
 
