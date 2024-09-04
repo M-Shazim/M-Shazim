@@ -23,6 +23,7 @@ I'm a passionate developer with skills in Python, Django, and web development. W
 🚀 **Live Demo:** [shazim.pythonanywhere.com](https://shazim.pythonanywhere.com)
 
 
+
 ---
 
 ⭐️ From [M. Shazim](https://github.com/M-Shazim)
