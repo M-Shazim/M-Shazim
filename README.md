@@ -16,12 +16,12 @@ I'm a passionate developer with skills in Python, Django, and web development. W
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Featured Projects
+<!--## Featured Projects
 
 [![hackathon_project](https://github-readme-stats.vercel.app/api/pin/?username=M-Shazim&repo=hackathon_project&theme=radical)](https://github.com/M-Shazim/hackathon_project)
 
 🚀 **Live Demo:** [shazim.pythonanywhere.com](https://shazim.pythonanywhere.com)
-
+-->
 
 
 ---
